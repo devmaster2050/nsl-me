@@ -36,11 +36,7 @@
         >
           <div class="header-content">
             <div class="header-photo">
-              <img
-                src="https://avatars.githubusercontent.com/u/191737357?v=4"
-                title="@KaiJieLie_"
-                alt="@KaiJieLie_"
-              />
+              <img src="avatar.jpg" title="@KaiJieLie_" alt="@KaiJieLie_" />
             </div>
             <div class="header-titles">
               <h2>Kai Jie Lie</h2>
