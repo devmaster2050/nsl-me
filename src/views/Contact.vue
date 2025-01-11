@@ -169,7 +169,7 @@
             <div class="g-recaptcha">
               <vue-recaptcha
                 theme="dark"
-                sitekey="6Leip0QaAAAAABA2pFDnWpUrAbdiEQETMtNwvh15"
+                sitekey="6Ld-j7QqAAAAANXg7NNBOMJMo4l6UNw1Fqj4bJXU"
                 :loadRecaptchaScript="true"
                 @verify="form.isValidatedRecaptcha = true"
                 @expired="form.isValidatedRecaptcha = false"
