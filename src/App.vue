@@ -37,7 +37,7 @@
           <div class="header-content">
             <div class="header-photo">
               <img
-                src="https://avatars.githubusercontent.com/u/44310540"
+                src="https://avatars.githubusercontent.com/u/191737357?v=4"
                 title="@KaiJieLie_"
                 alt="@KaiJieLie_"
               />
